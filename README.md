@@ -1,4 +1,4 @@
-# assignment
+# A vue project example of Todolist.(Modified and based on tutorial)
 
 ## Project setup
 ```
